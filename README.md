@@ -1,7 +1,7 @@
 # Hi there, I'm Arosh 👋
 
-<img align="left" width="53%" src="https://github-readme-stats.vercel.app/api?username=ShanArosh2002&hide=stars&count_private=true&show_icons=true&theme=radical" />
-<img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanArosh2002&layout=compact&exclude_repo=InMotion"/>
+<img align="left" width="53%" src="https://github-readme-stats.vercel.app/api?username=ShanArosh&hide=stars&count_private=true&show_icons=true&theme=radical" />
+<img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanArosh&layout=compact&exclude_repo=InMotion"/>
 <br/>
 <div align="center">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
